@@ -1,0 +1,11 @@
+{
+  "hari": {
+    "applied_date": "2026-05-17",
+    "applied_today": 0,
+    "last_log": "Batch apply: browser closed",
+    "last_apply_time": "2026-05-16 11:47 PM",
+    "current_job": "",
+    "last_error": "Batch apply: leaving \u00abYou might like\u00bb after 2 modal failures",
+    "running": false
+  }
+}

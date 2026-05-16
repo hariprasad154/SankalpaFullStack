@@ -1,0 +1,980 @@
+[
+  {
+    "time": "00:39:34",
+    "timestamp": "2026-05-17T00:39:34",
+    "level": "info",
+    "message": "Batch apply: starting Chrome"
+  },
+  {
+    "time": "00:39:51",
+    "timestamp": "2026-05-17T00:39:51",
+    "level": "info",
+    "message": "Naukri: login success"
+  },
+  {
+    "time": "00:40:02",
+    "timestamp": "2026-05-17T00:40:02",
+    "level": "info",
+    "message": "Batch apply: found 45 toggle(s) after initial load"
+  },
+  {
+    "time": "00:40:05",
+    "timestamp": "2026-05-17T00:40:05",
+    "level": "info",
+    "message": "Batch apply: starting"
+  },
+  {
+    "time": "00:40:09",
+    "timestamp": "2026-05-17T00:40:09",
+    "level": "info",
+    "message": "Batch apply: tab \u00bb Applies"
+  },
+  {
+    "time": "00:40:20",
+    "timestamp": "2026-05-17T00:40:20",
+    "level": "info",
+    "message": "Batch apply: opened feed tab \u00abApplies\u00bb (verified active \u00abapplies (59)\u00bb)"
+  },
+  {
+    "time": "00:40:25",
+    "timestamp": "2026-05-17T00:40:25",
+    "level": "info",
+    "message": "Batch apply: toggle count on \u00abApplies\u00bb after switch = 58"
+  },
+  {
+    "time": "00:40:28",
+    "timestamp": "2026-05-17T00:40:28",
+    "level": "info",
+    "message": "Batch apply: Applies \u2014 58 toggle(s) after reload"
+  },
+  {
+    "time": "00:40:33",
+    "timestamp": "2026-05-17T00:40:33",
+    "level": "info",
+    "message": "Batch apply: wrote 5 pending row(s) with description to jobs.json"
+  },
+  {
+    "time": "00:40:37",
+    "timestamp": "2026-05-17T00:40:37",
+    "level": "info",
+    "message": "Applied batch"
+  },
+  {
+    "time": "00:40:43",
+    "timestamp": "2026-05-17T00:40:43",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:40:46",
+    "timestamp": "2026-05-17T00:40:46",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:40:50",
+    "timestamp": "2026-05-17T00:40:50",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:41:03",
+    "timestamp": "2026-05-17T00:41:03",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:41:08",
+    "timestamp": "2026-05-17T00:41:08",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:41:11",
+    "timestamp": "2026-05-17T00:41:11",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:41:14",
+    "timestamp": "2026-05-17T00:41:14",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:41:21",
+    "timestamp": "2026-05-17T00:41:21",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:41:26",
+    "timestamp": "2026-05-17T00:41:26",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:41:30",
+    "timestamp": "2026-05-17T00:41:30",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:41:33",
+    "timestamp": "2026-05-17T00:41:33",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:41:39",
+    "timestamp": "2026-05-17T00:41:39",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:41:44",
+    "timestamp": "2026-05-17T00:41:44",
+    "level": "info",
+    "message": "Batch apply: final dismiss attempt after modal handling"
+  },
+  {
+    "time": "00:41:49",
+    "timestamp": "2026-05-17T00:41:49",
+    "level": "info",
+    "message": "Batch apply: warning \u2014 popup may still be visible; continuing run"
+  },
+  {
+    "time": "00:41:52",
+    "timestamp": "2026-05-17T00:41:52",
+    "level": "info",
+    "message": "Batch apply: post-apply modal not fully cleared \u2014 streak 1/2"
+  },
+  {
+    "time": "00:42:13",
+    "timestamp": "2026-05-17T00:42:13",
+    "level": "info",
+    "message": "Batch apply: batch done 5 job(s); total applied (cleared modal)=0; status=ApplyUncertain"
+  },
+  {
+    "time": "00:42:27",
+    "timestamp": "2026-05-17T00:42:27",
+    "level": "info",
+    "message": "Batch apply: opened feed tab \u00abApplies\u00bb (verified active \u00abapplies (59)\u00bb)"
+  },
+  {
+    "time": "00:42:34",
+    "timestamp": "2026-05-17T00:42:34",
+    "level": "info",
+    "message": "Batch apply: toggle count on \u00abApplies\u00bb after switch = 58"
+  },
+  {
+    "time": "00:42:38",
+    "timestamp": "2026-05-17T00:42:38",
+    "level": "info",
+    "message": "Batch apply: Applies \u2014 58 toggle(s) after reload"
+  },
+  {
+    "time": "00:42:42",
+    "timestamp": "2026-05-17T00:42:42",
+    "level": "info",
+    "message": "Batch apply: wrote 5 pending row(s) with description to jobs.json"
+  },
+  {
+    "time": "00:42:46",
+    "timestamp": "2026-05-17T00:42:46",
+    "level": "info",
+    "message": "Applied batch"
+  },
+  {
+    "time": "00:42:51",
+    "timestamp": "2026-05-17T00:42:51",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:42:54",
+    "timestamp": "2026-05-17T00:42:54",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:42:57",
+    "timestamp": "2026-05-17T00:42:57",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:43:03",
+    "timestamp": "2026-05-17T00:43:03",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:43:06",
+    "timestamp": "2026-05-17T00:43:06",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:43:09",
+    "timestamp": "2026-05-17T00:43:09",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:43:13",
+    "timestamp": "2026-05-17T00:43:13",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:43:18",
+    "timestamp": "2026-05-17T00:43:18",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:43:22",
+    "timestamp": "2026-05-17T00:43:22",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:43:25",
+    "timestamp": "2026-05-17T00:43:25",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:43:29",
+    "timestamp": "2026-05-17T00:43:29",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:43:35",
+    "timestamp": "2026-05-17T00:43:35",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:43:39",
+    "timestamp": "2026-05-17T00:43:39",
+    "level": "info",
+    "message": "Batch apply: final dismiss attempt after modal handling"
+  },
+  {
+    "time": "00:43:42",
+    "timestamp": "2026-05-17T00:43:42",
+    "level": "info",
+    "message": "Batch apply: warning \u2014 popup may still be visible; continuing run"
+  },
+  {
+    "time": "00:43:44",
+    "timestamp": "2026-05-17T00:43:44",
+    "level": "info",
+    "message": "Batch apply: post-apply modal not fully cleared \u2014 streak 2/2"
+  },
+  {
+    "time": "00:43:47",
+    "timestamp": "2026-05-17T00:43:47",
+    "level": "info",
+    "message": "Batch apply: leaving \u00abApplies\u00bb after 2 modal failures"
+  },
+  {
+    "time": "00:43:49",
+    "timestamp": "2026-05-17T00:43:49",
+    "level": "info",
+    "message": "Batch apply: tab done \u00abApplies\u00bb (1 batch(es))"
+  },
+  {
+    "time": "00:43:52",
+    "timestamp": "2026-05-17T00:43:52",
+    "level": "info",
+    "message": "Batch apply: tab \u00bb Top Candidate"
+  },
+  {
+    "time": "00:44:04",
+    "timestamp": "2026-05-17T00:44:04",
+    "level": "info",
+    "message": "Batch apply: opened feed tab \u00abTop Candidate\u00bb (verified active \u00abtop candidate (4)\u00bb)"
+  },
+  {
+    "time": "00:44:08",
+    "timestamp": "2026-05-17T00:44:08",
+    "level": "info",
+    "message": "Batch apply: toggle count on \u00abTop Candidate\u00bb after switch = 4"
+  },
+  {
+    "time": "00:44:11",
+    "timestamp": "2026-05-17T00:44:11",
+    "level": "info",
+    "message": "Batch apply: Top Candidate \u2014 4 toggle(s) after reload"
+  },
+  {
+    "time": "00:44:14",
+    "timestamp": "2026-05-17T00:44:14",
+    "level": "info",
+    "message": "Batch apply: wrote 4 pending row(s) with description to jobs.json"
+  },
+  {
+    "time": "00:44:17",
+    "timestamp": "2026-05-17T00:44:17",
+    "level": "info",
+    "message": "Applied batch"
+  },
+  {
+    "time": "00:44:31",
+    "timestamp": "2026-05-17T00:44:31",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:44:42",
+    "timestamp": "2026-05-17T00:44:42",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:44:48",
+    "timestamp": "2026-05-17T00:44:48",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:45:01",
+    "timestamp": "2026-05-17T00:45:01",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:45:11",
+    "timestamp": "2026-05-17T00:45:11",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:45:16",
+    "timestamp": "2026-05-17T00:45:16",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:45:19",
+    "timestamp": "2026-05-17T00:45:19",
+    "level": "info",
+    "message": "Batch apply: final dismiss attempt after modal handling"
+  },
+  {
+    "time": "00:45:22",
+    "timestamp": "2026-05-17T00:45:22",
+    "level": "info",
+    "message": "Batch apply: warning \u2014 popup may still be visible; continuing run"
+  },
+  {
+    "time": "00:45:24",
+    "timestamp": "2026-05-17T00:45:24",
+    "level": "info",
+    "message": "Batch apply: post-apply modal not fully cleared \u2014 streak 1/2"
+  },
+  {
+    "time": "00:45:36",
+    "timestamp": "2026-05-17T00:45:36",
+    "level": "info",
+    "message": "Batch apply: batch done 4 job(s); total applied (cleared modal)=0; status=ApplyUncertain"
+  },
+  {
+    "time": "00:45:50",
+    "timestamp": "2026-05-17T00:45:50",
+    "level": "info",
+    "message": "Batch apply: opened feed tab \u00abTop Candidate\u00bb (verified active \u00abtop candidate (3)\u00bb)"
+  },
+  {
+    "time": "00:45:55",
+    "timestamp": "2026-05-17T00:45:55",
+    "level": "info",
+    "message": "Batch apply: toggle count on \u00abTop Candidate\u00bb after switch = 3"
+  },
+  {
+    "time": "00:45:58",
+    "timestamp": "2026-05-17T00:45:58",
+    "level": "info",
+    "message": "Batch apply: Top Candidate \u2014 3 toggle(s) after reload"
+  },
+  {
+    "time": "00:46:01",
+    "timestamp": "2026-05-17T00:46:01",
+    "level": "info",
+    "message": "Batch apply: 0 new picks from 3 job-row toggle(s) (dedupe scope=per_tab, min description 30 chars, or batch overlap)"
+  },
+  {
+    "time": "00:46:04",
+    "timestamp": "2026-05-17T00:46:04",
+    "level": "info",
+    "message": "Batch apply: no new jobs to select (duplicates or short text) \u00abTop Candidate\u00bb round 1"
+  },
+  {
+    "time": "00:46:15",
+    "timestamp": "2026-05-17T00:46:15",
+    "level": "info",
+    "message": "Batch apply: opened feed tab \u00abTop Candidate\u00bb (verified active \u00abtop candidate (3)\u00bb)"
+  },
+  {
+    "time": "00:46:20",
+    "timestamp": "2026-05-17T00:46:20",
+    "level": "info",
+    "message": "Batch apply: toggle count on \u00abTop Candidate\u00bb after switch = 3"
+  },
+  {
+    "time": "00:46:23",
+    "timestamp": "2026-05-17T00:46:23",
+    "level": "info",
+    "message": "Batch apply: Top Candidate \u2014 3 toggle(s) after reload"
+  },
+  {
+    "time": "00:46:25",
+    "timestamp": "2026-05-17T00:46:25",
+    "level": "info",
+    "message": "Batch apply: 0 new picks from 3 job-row toggle(s) (dedupe scope=per_tab, min description 30 chars, or batch overlap)"
+  },
+  {
+    "time": "00:46:28",
+    "timestamp": "2026-05-17T00:46:28",
+    "level": "info",
+    "message": "Batch apply: no new jobs to select (duplicates or short text) \u00abTop Candidate\u00bb round 2"
+  },
+  {
+    "time": "00:46:41",
+    "timestamp": "2026-05-17T00:46:41",
+    "level": "info",
+    "message": "Batch apply: opened feed tab \u00abTop Candidate\u00bb (verified active \u00abtop candidate (3)\u00bb)"
+  },
+  {
+    "time": "00:46:46",
+    "timestamp": "2026-05-17T00:46:46",
+    "level": "info",
+    "message": "Batch apply: toggle count on \u00abTop Candidate\u00bb after switch = 3"
+  },
+  {
+    "time": "00:46:49",
+    "timestamp": "2026-05-17T00:46:49",
+    "level": "info",
+    "message": "Batch apply: Top Candidate \u2014 3 toggle(s) after reload"
+  },
+  {
+    "time": "00:46:51",
+    "timestamp": "2026-05-17T00:46:51",
+    "level": "info",
+    "message": "Batch apply: 0 new picks from 3 job-row toggle(s) (dedupe scope=per_tab, min description 30 chars, or batch overlap)"
+  },
+  {
+    "time": "00:46:54",
+    "timestamp": "2026-05-17T00:46:54",
+    "level": "info",
+    "message": "Batch apply: no new jobs to select (duplicates or short text) \u00abTop Candidate\u00bb round 3"
+  },
+  {
+    "time": "00:46:57",
+    "timestamp": "2026-05-17T00:46:57",
+    "level": "info",
+    "message": "Batch apply: \u00abTop Candidate\u00bb \u2014 no new picks after 3 scroll rounds; next tab"
+  },
+  {
+    "time": "00:47:00",
+    "timestamp": "2026-05-17T00:47:00",
+    "level": "info",
+    "message": "Batch apply: tab done \u00abTop Candidate\u00bb (1 batch(es))"
+  },
+  {
+    "time": "00:47:02",
+    "timestamp": "2026-05-17T00:47:02",
+    "level": "info",
+    "message": "Batch apply: tab \u00bb Preferences"
+  },
+  {
+    "time": "00:47:14",
+    "timestamp": "2026-05-17T00:47:14",
+    "level": "info",
+    "message": "Batch apply: opened feed tab \u00abPreferences\u00bb (verified active \u00abpreferences (67)\u00bb)"
+  },
+  {
+    "time": "00:47:21",
+    "timestamp": "2026-05-17T00:47:21",
+    "level": "info",
+    "message": "Batch apply: toggle count on \u00abPreferences\u00bb after switch = 53"
+  },
+  {
+    "time": "00:47:24",
+    "timestamp": "2026-05-17T00:47:24",
+    "level": "info",
+    "message": "Batch apply: Preferences \u2014 53 toggle(s) after reload"
+  },
+  {
+    "time": "00:47:28",
+    "timestamp": "2026-05-17T00:47:28",
+    "level": "info",
+    "message": "Batch apply: wrote 5 pending row(s) with description to jobs.json"
+  },
+  {
+    "time": "00:47:31",
+    "timestamp": "2026-05-17T00:47:31",
+    "level": "info",
+    "message": "Applied batch"
+  },
+  {
+    "time": "00:47:36",
+    "timestamp": "2026-05-17T00:47:36",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:47:40",
+    "timestamp": "2026-05-17T00:47:40",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:47:45",
+    "timestamp": "2026-05-17T00:47:45",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:47:53",
+    "timestamp": "2026-05-17T00:47:53",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:47:56",
+    "timestamp": "2026-05-17T00:47:56",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:47:59",
+    "timestamp": "2026-05-17T00:47:59",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:48:03",
+    "timestamp": "2026-05-17T00:48:03",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:48:10",
+    "timestamp": "2026-05-17T00:48:10",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:48:14",
+    "timestamp": "2026-05-17T00:48:14",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:48:17",
+    "timestamp": "2026-05-17T00:48:17",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:48:21",
+    "timestamp": "2026-05-17T00:48:21",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:48:27",
+    "timestamp": "2026-05-17T00:48:27",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:48:30",
+    "timestamp": "2026-05-17T00:48:30",
+    "level": "info",
+    "message": "Batch apply: final dismiss attempt after modal handling"
+  },
+  {
+    "time": "00:48:33",
+    "timestamp": "2026-05-17T00:48:33",
+    "level": "info",
+    "message": "Batch apply: warning \u2014 popup may still be visible; continuing run"
+  },
+  {
+    "time": "00:48:36",
+    "timestamp": "2026-05-17T00:48:36",
+    "level": "info",
+    "message": "Batch apply: post-apply modal not fully cleared \u2014 streak 1/2"
+  },
+  {
+    "time": "00:48:53",
+    "timestamp": "2026-05-17T00:48:53",
+    "level": "info",
+    "message": "Batch apply: batch done 5 job(s); total applied (cleared modal)=0; status=ApplyUncertain"
+  },
+  {
+    "time": "00:49:06",
+    "timestamp": "2026-05-17T00:49:06",
+    "level": "info",
+    "message": "Batch apply: opened feed tab \u00abPreferences\u00bb (verified active \u00abpreferences (67)\u00bb)"
+  },
+  {
+    "time": "00:49:12",
+    "timestamp": "2026-05-17T00:49:12",
+    "level": "info",
+    "message": "Batch apply: toggle count on \u00abPreferences\u00bb after switch = 53"
+  },
+  {
+    "time": "00:49:15",
+    "timestamp": "2026-05-17T00:49:15",
+    "level": "info",
+    "message": "Batch apply: Preferences \u2014 53 toggle(s) after reload"
+  },
+  {
+    "time": "00:49:19",
+    "timestamp": "2026-05-17T00:49:19",
+    "level": "info",
+    "message": "Batch apply: wrote 5 pending row(s) with description to jobs.json"
+  },
+  {
+    "time": "00:49:22",
+    "timestamp": "2026-05-17T00:49:22",
+    "level": "info",
+    "message": "Applied batch"
+  },
+  {
+    "time": "00:49:41",
+    "timestamp": "2026-05-17T00:49:41",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:49:55",
+    "timestamp": "2026-05-17T00:49:55",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:50:06",
+    "timestamp": "2026-05-17T00:50:06",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:50:14",
+    "timestamp": "2026-05-17T00:50:14",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:50:18",
+    "timestamp": "2026-05-17T00:50:18",
+    "level": "info",
+    "message": "Batch apply: final dismiss attempt after modal handling"
+  },
+  {
+    "time": "00:50:21",
+    "timestamp": "2026-05-17T00:50:21",
+    "level": "info",
+    "message": "Batch apply: warning \u2014 popup may still be visible; continuing run"
+  },
+  {
+    "time": "00:50:24",
+    "timestamp": "2026-05-17T00:50:24",
+    "level": "info",
+    "message": "Batch apply: post-apply modal not fully cleared \u2014 streak 2/2"
+  },
+  {
+    "time": "00:50:26",
+    "timestamp": "2026-05-17T00:50:26",
+    "level": "info",
+    "message": "Batch apply: leaving \u00abPreferences\u00bb after 2 modal failures"
+  },
+  {
+    "time": "00:50:30",
+    "timestamp": "2026-05-17T00:50:30",
+    "level": "info",
+    "message": "Batch apply: tab done \u00abPreferences\u00bb (1 batch(es))"
+  },
+  {
+    "time": "00:50:32",
+    "timestamp": "2026-05-17T00:50:32",
+    "level": "info",
+    "message": "Batch apply: tab \u00bb You might like"
+  },
+  {
+    "time": "00:50:51",
+    "timestamp": "2026-05-17T00:50:51",
+    "level": "info",
+    "message": "Batch apply: opened feed tab \u00abYou might like\u00bb (verified active \u00abyou might like (71)\u00bb)"
+  },
+  {
+    "time": "00:50:57",
+    "timestamp": "2026-05-17T00:50:57",
+    "level": "info",
+    "message": "Batch apply: toggle count on \u00abYou might like\u00bb after switch = 56"
+  },
+  {
+    "time": "00:50:59",
+    "timestamp": "2026-05-17T00:50:59",
+    "level": "info",
+    "message": "Batch apply: You might like \u2014 56 toggle(s) after reload"
+  },
+  {
+    "time": "00:51:04",
+    "timestamp": "2026-05-17T00:51:04",
+    "level": "info",
+    "message": "Batch apply: wrote 5 pending row(s) with description to jobs.json"
+  },
+  {
+    "time": "00:51:06",
+    "timestamp": "2026-05-17T00:51:06",
+    "level": "info",
+    "message": "Applied batch"
+  },
+  {
+    "time": "00:51:13",
+    "timestamp": "2026-05-17T00:51:13",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:51:17",
+    "timestamp": "2026-05-17T00:51:17",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:51:21",
+    "timestamp": "2026-05-17T00:51:21",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:51:29",
+    "timestamp": "2026-05-17T00:51:29",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:51:37",
+    "timestamp": "2026-05-17T00:51:37",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:51:46",
+    "timestamp": "2026-05-17T00:51:46",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:51:50",
+    "timestamp": "2026-05-17T00:51:50",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:52:01",
+    "timestamp": "2026-05-17T00:52:01",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:52:05",
+    "timestamp": "2026-05-17T00:52:05",
+    "level": "info",
+    "message": "Batch apply: final dismiss attempt after modal handling"
+  },
+  {
+    "time": "00:52:09",
+    "timestamp": "2026-05-17T00:52:09",
+    "level": "info",
+    "message": "Batch apply: warning \u2014 popup may still be visible; continuing run"
+  },
+  {
+    "time": "00:52:12",
+    "timestamp": "2026-05-17T00:52:12",
+    "level": "info",
+    "message": "Batch apply: post-apply modal not fully cleared \u2014 streak 1/2"
+  },
+  {
+    "time": "00:52:31",
+    "timestamp": "2026-05-17T00:52:31",
+    "level": "info",
+    "message": "Batch apply: batch done 5 job(s); total applied (cleared modal)=0; status=ApplyUncertain"
+  },
+  {
+    "time": "00:52:44",
+    "timestamp": "2026-05-17T00:52:44",
+    "level": "info",
+    "message": "Batch apply: opened feed tab \u00abYou might like\u00bb (verified active \u00abyou might like (71)\u00bb)"
+  },
+  {
+    "time": "00:52:50",
+    "timestamp": "2026-05-17T00:52:50",
+    "level": "info",
+    "message": "Batch apply: toggle count on \u00abYou might like\u00bb after switch = 56"
+  },
+  {
+    "time": "00:52:53",
+    "timestamp": "2026-05-17T00:52:53",
+    "level": "info",
+    "message": "Batch apply: You might like \u2014 56 toggle(s) after reload"
+  },
+  {
+    "time": "00:52:58",
+    "timestamp": "2026-05-17T00:52:58",
+    "level": "info",
+    "message": "Batch apply: wrote 5 pending row(s) with description to jobs.json"
+  },
+  {
+    "time": "00:53:03",
+    "timestamp": "2026-05-17T00:53:03",
+    "level": "info",
+    "message": "Applied batch"
+  },
+  {
+    "time": "00:53:08",
+    "timestamp": "2026-05-17T00:53:08",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:53:18",
+    "timestamp": "2026-05-17T00:53:18",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:53:23",
+    "timestamp": "2026-05-17T00:53:23",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:53:30",
+    "timestamp": "2026-05-17T00:53:30",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:53:33",
+    "timestamp": "2026-05-17T00:53:33",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:53:37",
+    "timestamp": "2026-05-17T00:53:37",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:53:41",
+    "timestamp": "2026-05-17T00:53:41",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:53:48",
+    "timestamp": "2026-05-17T00:53:48",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:53:53",
+    "timestamp": "2026-05-17T00:53:53",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:53:56",
+    "timestamp": "2026-05-17T00:53:56",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:54:00",
+    "timestamp": "2026-05-17T00:54:00",
+    "level": "info",
+    "message": "Popup: AI answer ready"
+  },
+  {
+    "time": "00:54:07",
+    "timestamp": "2026-05-17T00:54:07",
+    "level": "info",
+    "message": "Batch apply: modal step progressed"
+  },
+  {
+    "time": "00:54:10",
+    "timestamp": "2026-05-17T00:54:10",
+    "level": "info",
+    "message": "Batch apply: final dismiss attempt after modal handling"
+  },
+  {
+    "time": "00:54:12",
+    "timestamp": "2026-05-17T00:54:12",
+    "level": "info",
+    "message": "Batch apply: warning \u2014 popup may still be visible; continuing run"
+  },
+  {
+    "time": "00:54:15",
+    "timestamp": "2026-05-17T00:54:15",
+    "level": "info",
+    "message": "Batch apply: post-apply modal not fully cleared \u2014 streak 2/2"
+  },
+  {
+    "time": "00:54:18",
+    "timestamp": "2026-05-17T00:54:18",
+    "level": "info",
+    "message": "Batch apply: leaving \u00abYou might like\u00bb after 2 modal failures"
+  },
+  {
+    "time": "00:54:21",
+    "timestamp": "2026-05-17T00:54:21",
+    "level": "info",
+    "message": "Batch apply: tab done \u00abYou might like\u00bb (1 batch(es))"
+  },
+  {
+    "time": "00:54:23",
+    "timestamp": "2026-05-17T00:54:23",
+    "level": "info",
+    "message": "Batch apply: finished; total applied=0"
+  },
+  {
+    "time": "00:54:27",
+    "timestamp": "2026-05-17T00:54:27",
+    "level": "info",
+    "message": "Batch apply: browser closed"
+  },
+  {
+    "time": "01:11:11",
+    "timestamp": "2026-05-17T01:11:11",
+    "level": "info",
+    "message": "Batch apply: starting Chrome"
+  },
+  {
+    "time": "01:11:26",
+    "timestamp": "2026-05-17T01:11:26",
+    "level": "info",
+    "message": "Naukri: login success"
+  },
+  {
+    "time": "01:11:29",
+    "timestamp": "2026-05-17T01:11:29",
+    "level": "info",
+    "message": "Batch apply flow error: Message: invalid session id: session deleted as the browser has closed the connection\nfrom disconnected: not connected to DevTools\n  (Session info: chrome=146.0.7680.177); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n#0 0x5f289ed70a6a <unknown>\n#1 0x5f289e77fab5 <unknown>\n#2 0x5f289e765d3e <unknown>\n#3 0x5f289e78ea76 <unknown>\n#4 0x5f289e800fb0 <unknown>\n#5 0x5f289e81a168 <unknown>\n#6 0x5f289e7c5cbf <unknown>\n#7 0x5f289e7c6a81 <unknown>\n#8 0x5f289ed36a64 <unknown>\n#9 0x5f289ed39951 <unknown>\n#10 0x5f289ed2321e <unknown>\n#11 0x5f289ed3a51e <unknown>\n#12 0x5f289ed09be0 <unknown>\n#13 0x5f289ed5d9b8 <unknown>\n#14 0x5f289ed5db88 <unknown>\n#15 0x5f289ed6f4de <unknown>\n#16 0x72334d09caa4 <unknown>\n#17 0x72334d129c6c <unknown>\n"
+  },
+  {
+    "time": "01:11:31",
+    "timestamp": "2026-05-17T01:11:31",
+    "level": "info",
+    "message": "Batch apply: browser closed"
+  }
+]

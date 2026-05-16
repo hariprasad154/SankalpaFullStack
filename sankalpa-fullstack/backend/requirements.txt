@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pydantic[email]
+email-validator
+httpx
+pypdf
+python-jose[cryptography]

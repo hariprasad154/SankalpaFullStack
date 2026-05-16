@@ -1,0 +1,13 @@
+{
+  "username": "hari_test",
+  "naukri_email": "test@naukri.com",
+  "naukri_password": "npass123",
+  "expected_salary": "",
+  "current_salary": "",
+  "notice_period": "15 days",
+  "apply_years": "3",
+  "lwd_reply": "15 days",
+  "skills_reply": "",
+  "generic_reply": "Yes",
+  "resume_text": ""
+}

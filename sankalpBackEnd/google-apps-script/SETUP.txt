@@ -1,0 +1,35 @@
+Google Sheets setup for Sankalpa
+================================
+
+1. Open your sheet:
+   https://docs.google.com/spreadsheets/d/1p8NpBaJOTp6LIwwnemo_ZzgHDAR58FiPg53epNvDXYM/edit
+
+2. Create tabs (exact names):
+   - Users
+   - Applications
+   - Logs
+   - Cache
+
+3. Row 1 headers:
+
+   Users:
+   username | password_encoded | naukri_email | naukri_password_encoded | resume_text | skills | expected_salary | notice_period | auto_apply_enabled | last_apply_time | created_at
+
+   Applications:
+   username | company | role | status | error | timestamp
+
+   Logs:
+   username | timestamp | message
+
+   Cache:
+   question | answer
+
+4. Extensions → Apps Script → paste Code.gs → Deploy → New deployment → Web app
+   After code changes: Deploy → Manage deployments → Edit → Deploy new version
+   - Execute as: Me
+   - Who has access: Anyone
+
+5. Copy deployment URL into backend/.env:
+   GOOGLE_SCRIPT_URL=https://script.google.com/macros/s/AKfycbzACY8RavP687Z6xcXKSklM57YD2N_48Hqj-KSughYp6R1XN2iyesI8ABALF2vNEyAa/exec
+
+6. Restart backend. Health should show google_script_configured: true
